@@ -107,7 +107,6 @@ The Token Safe is complemented by the Lock Monitor feature, which allows anyone 
   This tool makes token creation accessible to all, providing an effortless way to bring new tokens to the market. The LazyCat Token Launcher ensures that innovative ideas can come to life, fostering a diverse and vibrant crypto ecosystem.
 - ### *Launchpad:*
   LazyCat Launchpad streamlines the fundraising process, providing a secure and user-friendly platform for developers to present their projects to potential supporters. This fosters trust and creates more opportunities for backing and collaboration. 
-- ### *Building Stronger Relationships:*
   
 # [3] Contact
 - 📧 lazycat@lazycat.wtf
