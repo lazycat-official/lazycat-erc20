@@ -15,7 +15,7 @@
 **Nature of the Token Documentation  ::**
  - The Token Documentation is a conceptual paper that articulates some of the main design principles and ideas for the creation of a digital token to be known as LAZYCAT. The Token Documentation and the Website are intended for general informational purposes only and do not constitute a prospectus, an offer document, an offer of securities, a solicitation for investment, any offer to sell any product, item, or asset (whether digital or otherwise), or any offer to engage in business with any external individual or entity provided in said documentation. The information herein may not be exhaustive and does not imply any element of, or solicit in any way, a legally-binding or contractual relationship. There is no assurance as to the accuracy or completeness of such information and no representation, warranty or undertaking is or purported to be provided as to the accuracy or completeness of such information. Where the Token Documentation or the Website includes information that has been obtained from third party sources, the Company, the Distributor, their respective affiliates and/or the LAZYCAT early contributors have not independently verified the accuracy or completeness of such information. Further, you acknowledge that the project development roadmap, network functionality are subject to change and that the Token Documentation or the Website may become outdated as a result; and neither the Company nor the Distributor is under any obligation to update or correct this document in connection therewith.
 ## ▷ CHAIN INFO 
-Chain : ERC-20 / BNB CHAIN 
+Chain : ERC-20 / BASE CHAIN 
 
 ## ▷ ALLOCATION OF FUNDS 
 - Contract Address : 0x41ed891897117450adbd710006855b12f98cb86b
